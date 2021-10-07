@@ -1,0 +1,83 @@
+*{
+    box-sizing: border-box;
+}
+.about-section > .jumbotron{
+    padding-bottom: 32px;
+}
+
+.name{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 60px;
+}
+
+.name h6{
+    color: black;
+    margin-bottom: 0px;
+}
+.name h1{
+    font-weight: bold;
+}
+
+#information{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    
+}
+.skillbars > h2{
+    text-align: center;
+    font-weight: bold;
+}
+.skillbars  .container{
+    width: 100%;
+    padding: 0px;
+    background-color: #ddd;
+    border-radius: 25px;
+}
+.skillbars > p{
+    font-size: 1.2em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+    color: #0275d8;
+
+}
+
+.skillbars .skills{
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    border-radius: 25px;
+}
+.skillbars .html{
+    width: 90%;
+    background-color: #04AA6D;
+}
+.skillbars .css{
+    width: 80%;
+    background-color: red;
+}
+.skillbars .js{
+    width: 70%;
+    background-color: royalblue;
+}
+.skillbars .photography{
+    width: 50%;
+    background-color: saddlebrown;
+}
+
+
+
+.contact-list > h2{
+    font-weight: bold;
+    color: #0275d8;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
